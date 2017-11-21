@@ -1,0 +1,2 @@
+# lx-scripts
+Linux scripts
